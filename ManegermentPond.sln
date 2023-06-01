@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManegermentPond", "ManegermentPond\ManegermentPond.csproj", "{772DA221-74B2-47A8-8B83-9F6596BDB8EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772DA221-74B2-47A8-8B83-9F6596BDB8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772DA221-74B2-47A8-8B83-9F6596BDB8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772DA221-74B2-47A8-8B83-9F6596BDB8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772DA221-74B2-47A8-8B83-9F6596BDB8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA8DA9A2-3463-4EF8-9C13-FAE087B45E4E}
+	EndGlobalSection
+EndGlobal
